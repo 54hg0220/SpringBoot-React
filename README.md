@@ -29,9 +29,11 @@ $ git clone https://github.com/54hg0220/SpringBoot-React.git
 # Clone this repository
 $ create table ems
 ```
+
 **MainEntry** of the backend
 
 ![backend.png](backend.png)
+
 **MainEntry** of the frontend
 use vs code open react-frontend folder, and use following command to enter the app:
 ```bash
