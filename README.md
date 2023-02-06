@@ -9,8 +9,6 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#project-design">Project Design</a> •
-  <a href="#future-work">Future Work</a> 
 </p>
 
 ## Key Features
@@ -24,24 +22,20 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/54hg0220/auspost-challenge.git
+$ git clone https://github.com/54hg0220/SpringBoot-React.git
 ```
-Run **MainEntry** file in the **src/main/java/com.demo.profileservice** folder
-![img_1.png](project-folder.png)
-The main interface is shown like below:
+**Database** MySQL8
+```bash
+# Clone this repository
+$ create table ems
+```
+**MainEntry** of the backend
 
-![img.png](main-interface.png)
-
-Then, enter your selection to use the application.
-## Project Design
-
-![img_1.png](project-structure.png)
-
-1. Main Entry：Display information, interact with user, simply business logic defined
-2. Service: Business logic implementation and interact with data source layer.
-3. Data Source: Access the data and interact with the data source. This is set as a list in this application, but the data source can be replaced with xml, json or database. 
-
-## Future Work
-
-* Engage some boundary testing for ProfileServiceImpl
-* Write a controller to split the user interaction from the main entry class
+![backend.png](backend.png)
+**MainEntry** of the frontend
+use vs code open react-frontend folder, and use following command to enter the app:
+```bash
+# Clone this repository
+$ npm install
+npm start 
+```
