@@ -19,7 +19,6 @@
 * Create new profile
 * Delete profile from the data source
 * Edit profile by ID
-* Search profile by name
 
 ## How To Use
 
