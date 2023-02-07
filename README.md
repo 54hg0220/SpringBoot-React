@@ -43,4 +43,4 @@ $ npm install
 npm start 
 ```
 ## Future
-# Search by name function
+Search by name function
