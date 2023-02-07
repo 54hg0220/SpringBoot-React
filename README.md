@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#Future">Future</a> •
+  <a href="#Future">Future</a> 
 </p>
 
 ## Key Features
@@ -42,3 +42,5 @@ use vs code open react-frontend folder, and use following command to enter the a
 $ npm install
 npm start 
 ```
+## Future
+# Search by name function
